@@ -2,6 +2,9 @@
 Dépôt des travaux et projets pour la matière Data Engineering - M2 SEP (M. Skanji)
 
 Le dépôt du projet "Brisbane" s'organise de la façon suivante :
-  *le fichier "Code" contient le code Projet-kmeans.ipynb
-  *
-  *
+
+  *le répertoire "Code" contient le code Projet_kmeans.ipynb
+  
+  *le répertoire "Data" contient le fichier de données originales au format json
+  
+  *le répertoire "Output" contient le tableau "fitted_final.csv", ainsi que la carte de Brisbane.
