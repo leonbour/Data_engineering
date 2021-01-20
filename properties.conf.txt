@@ -1,9 +1,0 @@
-[Brisbane-City-bike]
-Input-data=data/Brisbane-city-bike.json
-Output-data=exported/
-Kmeans-level=3
-import configparser
-config = configparser.ConfigParser()
-path-to-input-data = config['Brisbane-City-bike']['Input-data']
-path-to-output-data = config['Brisbane-City-bike']['Output-data']
-num-partition-kmeans = config['Brisbane-City-bike']['Kmeans-level']
